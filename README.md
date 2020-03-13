@@ -1,0 +1,2 @@
+# Dice-stimulator
+rand() example
